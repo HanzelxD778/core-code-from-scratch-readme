@@ -30,7 +30,7 @@ Java implementations typically use a two-step compilation process, a java progra
 
 You have been selected to develop the algorithm that will be used to convert dollars (USD) to bitcoin (BTC), for this the first thing you must do is deliver a pseudocode with the algorithm to be developed, in this way you can explain in a better way to the team what will be the required operation. The main idea is to have a website where the user will be asked to enter the amount to convert.
 
-START br
+START <br>
 bitInDol <-- 0.000022
 amountDol <-- 0
 value <-- 0
